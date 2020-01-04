@@ -13,3 +13,5 @@ mi cuenta solo puedo verlo yo si ha habido error, pues no vamos a
 usar pull request)
 
 4) si todo okey se hace pull request 
+
+URL despliegue: https://appauxpruebas.herokuapp.com/
