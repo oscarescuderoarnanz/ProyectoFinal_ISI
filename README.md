@@ -15,3 +15,6 @@ usar pull request)
 4) si todo okey se hace pull request 
 
 URL despliegue: https://appauxpruebas.herokuapp.com/
+
+Conexion a postgresql de travis desde terminal:
+	heroku pg:psql -a appauxpruebas
